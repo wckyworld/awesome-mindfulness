@@ -47,7 +47,8 @@
 ## Relaxation and sleep
 
 - [📱](#icons) [Endel](https://endel.io/) - *Personalized soundscapes to help you focus, relax, and sleep. Backed by neuroscience* - Endel
-- [🍎](#icons) [Apple's native background sounds](https://support.apple.com/en-gb/109346) - iPhones and iPads can play have a small collection of ambient background sounds without downloading any additional applications.
+- [🍎](#icons) [Apple's native background sounds](https://support.apple.com/en-gb/109346) - iPhones and iPads can play have a small collection of ambient background sounds without downloading any
+- - [Sleep Maxxing](https://sleepmaxxing-gamma.vercel.app) - Science-backed sleep optimization guides: sleep hygiene, circadian rhythm, sleep debt and recovery tips.additional applications.
 
 ## Icons
 
