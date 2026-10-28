@@ -48,6 +48,7 @@
 
 - [📱](#icons) [Endel](https://endel.io/) - *Personalized soundscapes to help you focus, relax, and sleep. Backed by neuroscience* - Endel
 - [🍎](#icons) [Apple's native background sounds](https://support.apple.com/en-gb/109346) - iPhones and iPads can play have a small collection of ambient background sounds without downloading any additional applications.
+- [📱](#icons) [Ripple](https://ripplefocus.github.io/en/) - Locks short-video and social apps at bedtime and makes you wait 15 minutes before you can turn the block off, which helps with late-night scrolling. Free, no account or ads.
 
 ## Icons
 
